@@ -1,0 +1,12 @@
+E:\Redis\RedisWeb\Redis.Model\bin\Debug\Redis.Model.dll.config
+E:\Redis\RedisWeb\Redis.Model\bin\Debug\Redis.Model.dll
+E:\Redis\RedisWeb\Redis.Model\bin\Debug\Redis.Model.pdb
+E:\Redis\RedisWeb\Redis.Model\bin\Debug\EntityFramework.dll
+E:\Redis\RedisWeb\Redis.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Redis\RedisWeb\Redis.Model\bin\Debug\EntityFramework.xml
+E:\Redis\RedisWeb\Redis.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Redis\RedisWeb\Redis.Model\obj\Debug\Redis.Model.csproj.AssemblyReference.cache
+E:\Redis\RedisWeb\Redis.Model\obj\Debug\Redis.Model.csproj.CoreCompileInputs.cache
+E:\Redis\RedisWeb\Redis.Model\obj\Debug\Redis.Mo.750F3A62.Up2Date
+E:\Redis\RedisWeb\Redis.Model\obj\Debug\Redis.Model.dll
+E:\Redis\RedisWeb\Redis.Model\obj\Debug\Redis.Model.pdb
